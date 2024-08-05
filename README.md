@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumya
-- 🌱 I’m currently learning python and javascript, also parallally working on Selenium automation. 
+
 
 
 <!---
